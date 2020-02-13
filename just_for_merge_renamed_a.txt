@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+a.txt after deletion with merge
+=======
+adding a.txt to check if it gets deleted while merge
+>>>>>>> raj
