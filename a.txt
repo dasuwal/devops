@@ -1,0 +1,1 @@
+adding a.txt to check if it gets deleted while merge
