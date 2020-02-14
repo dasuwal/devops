@@ -5,3 +5,4 @@ adding for stash
 Addign more chagnes and commits.
 
 Troubleshooting
+Traobuelshooting --2 
